@@ -1,0 +1,7 @@
+# editor swap and backup files
+*.swp
+*~
+
+.env
+.env.*
+*.pem
